@@ -1,0 +1,20 @@
+
+#image{
+    border-radius: 10px;
+}
+
+
+
+body {
+    background: salmon;
+    text-align: center;
+}
+
+
+button{
+    border-radius: 8px ;
+    margin: none;
+    color: darkgoldenrod;
+
+    padding: none;
+}
